@@ -1,0 +1,3 @@
+# Example .gitignore
+*.pyc
+__pycache__/
