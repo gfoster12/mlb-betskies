@@ -1,0 +1,2 @@
+gameDate,away_team,home_team,pick,home_win_prob,away_win_prob,venue,weather_summary,pitchers,home_odds,away_odds,home_pitcher,away_pitcher,home_lineup_ids,away_lineup_ids
+2025-06-30,NY Yankees,Boston Red Sox,NY Yankees,53.2,46.8,Fenway Park,"78°F, 60% RH, 8 mph","Cole vs Sale",-120,+110,"Gerrit Cole","Chris Sale","[1,2,3,4,5,6,7,8,9]","[11,12,13,14,15,16,17,18,19]"

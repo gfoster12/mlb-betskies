@@ -1,0 +1,17 @@
+# Ignore Python cache and virtualenv
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Ignore data except for predictions (optional: remove ! if you want to track all data)
+data/*.csv
+data/*.pkl
+!data/upcoming_games_predictions.csv
+
+# Ignore model files
+data/*.pkl
+
+# Ignore logs and system files
+*.log
+.DS_Store

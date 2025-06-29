@@ -1,0 +1,7 @@
+dash
+pandas
+xgboost
+scikit-learn
+gunicorn
+plotly
+# Add all other dependencies you use here (e.g., requests, joblib, etc.)
