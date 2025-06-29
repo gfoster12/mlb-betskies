@@ -1,3 +1,0 @@
-# Example requirements
-flask
-requests
